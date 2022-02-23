@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A full, true and particular account of the ghost or apparition of the late Duke of Buckingham's father which several times appeared in armor to one of the Duke's servant; and for about half a year before foretold the Duke's death.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40628</idno>
+            <idno type="STC">Wing F2378A</idno>
+            <idno type="STC">ESTC R215798</idno>
+            <idno type="EEBO-CITATION">99827567</idno>
+            <idno type="PROQUEST">99827567</idno>
+            <idno type="VID">31989</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31989)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1847:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A full, true and particular account of the ghost or apparition of the late Duke of Buckingham's father which several times appeared in armor to one of the Duke's servant; and for about half a year before foretold the Duke's death.</title>
+               </titleStmt>
+               <extent>8 p. : ill. (woodcuts)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by F.C. in the Old Bailey,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On page 2 at head of text: Extract a Monsieur d'Ablancour, le Vie le Grand Duc de Buckingham.</note>
+                  <note>Place of publication and suggested imprint date from Wing.</note>
+                  <note>Purports to be an account of the appearance of Sir George Villiers to his widow to warn her of the death of George Villiers, Duke of Buckingham.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Buckingham, George Villiers, --  Duke of, 1592-1628 --  Early works to 1800.</term>
+               <term>Villiers, George, --  Sir, d. 1606 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31989:1" rendition="simple:additions"/>
+            <p>A Full True and Particular ACCOUNT Of the GHOST or Apparition of the late Duke of <hi>Buckingham</hi>'s Father, which ſe<g ref="char:EOLhyphen"/>veral Times appeared in Armor to one of the Duke's Servants; and for about half a Year before foretold the DUKE's Death.</p>
+            <figure>
+               <figDesc>man in bed, another man standing nearby</figDesc>
+            </figure>
+            <p>Printed by <hi>F. C.</hi> in the <hi>Old Bailey.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:31989:2"/>
+            <head>Extract a Monſieur d'<hi>Ablancour,</hi> le Vie le Grand Due de Buckingham.</head>
+            <p>THERE were many Stories ſcattered A<g ref="char:EOLhyphen"/>broad at that Time, of ſeveral Prophecies and Predictions concerning the Duke's untime<g ref="char:EOLhyphen"/>ly and violent Death. Amongſt the reſt there was one, which was upon a better Foundation of Credit, than uſually ſuch Diſcourſes are founded upon. There was an Officer in the King's <hi>Wardrobe</hi> in <hi>Windſor</hi>-Caſtle, of a good Reputation for Honeſty and Diſc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etion, and then about the Age of Fifty Years or more: This Man had in his Youth been Bred in a School, in a Pariſh where Sr. <hi>George Villiers</hi> the Father of the Duke liv'd; and had been much Cheriſhed and Obliged in that Seaſon of his Age by the ſaid Sr. <hi>George</hi> whom afterwards he never ſaw. About Six Months before the Miſerable End of the Duke of <hi>Buckingham,</hi> a<g ref="char:EOLhyphen"/>bout Midnight, this Man being in his Bed at
+<pb n="3" facs="tcp:31989:2"/> 
+               <hi>Windſor</hi> where his Office was, and in very good Health, there appeared to him on the ſide of his Bed, a Man of a Venerable Aſpect, who drew the Curtains of his Bed, and fixing his Eyes upon him, ask'd h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, if he knew him. The poor Man, half dead with Fear and Ap<g ref="char:EOLhyphen"/>prehenſion, being ask'd the ſecond time, whe<g ref="char:EOLhyphen"/>ther he remember'd him? And having in that time called to his Memory the Preſenc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Sir <hi>George Villiers,</hi> and the very Cloaths he uſed to wear in which at that time he ſeemed to be habited<g ref="char:punc">▪</g> he anſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er'd him, that he thought him to be that Perſon. He reply'd, he was in the Right, that he was the ſame, and that he ex<g ref="char:EOLhyphen"/>pected a 'Service from him: w<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ic<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was, that he ſhould go from him to his Son the Duke of Buckingham, and tell him, if he did not ſome<g ref="char:EOLhyphen"/>what to ingratiate himſelf to the People, or, at leaſt to abate the Extream Mallice they had a gainſt him, he would be suffer'd to live but a ſhort Time'. After this Diſcourſe he diſap<g ref="char:EOLhyphen"/>pear'd; and the poor man, if he had been at all waking, ſlept well till morning, when he be<g ref="char:EOLhyphen"/>lieved all this to be a dream, and conſider'd it no otherwiſe.</p>
+            <p>The next night, or ſhortly after, the ſame Perſon appear'd to him, again in the ſame Place, and about the ſam<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tim<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the N<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght, with an Aſpect a little more ſevere than before, and
+<pb n="4" facs="tcp:31989:3"/> ask'd him, whether he had done as he required him? And perceiving he had not, gave him very ſevere Reprehenſions; and told him, <hi>he expected more Complyance from him; and that if he did not perform his Commands, he ſhould enjoy no Peace of Mind, but ſhould be always purſued by him:</hi> Upon which he promiſed to obey him. But the next Morning wak<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng out of a good Sleep, though he was exceedingly Perplexed with the Lively Repreſentation of all parti<g ref="char:EOLhyphen"/>culars to his Memory, he was willing ſtill to perfwade himſelf that he had only Dreamed: And conſider'd that he was a Perſon at ſuch a Diſtance from the Duke, that he knew not how to find any Admiſſion to his Preſence; much leſs had any hope to be believ'd in what he ſhould ſay. So with great Trouble and unqui<g ref="char:EOLhyphen"/>etneſs, he ſpent ſome Time in thinking wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t he ſhould do; and in the End reſolving to do nothing in the Matter.</p>
+            <p>The ſame Perſon appear'd to him the Third Time with a Terrible Countenance and bitterly reproaching him with not performing what he had promis'd to do. The Poor Man took Cou<g ref="char:EOLhyphen"/>rage to tell him; <hi>That in Truth he had defer'd <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Execution of his Commands upon conſidering how Difficult a Thing it would be for him to get any acceſs to the Duke, having Acquaintance with no Perſon about him; and if he could attain Ad<g ref="char:EOLhyphen"/>miſſion
+<pb n="5" facs="tcp:31989:3"/> to him, he ſhould never be able to perſwade him, that he was ſent in ſuch a manner: But he ſhould at beſt be thought to be mad, or ſet on and employ'd by his own or the M<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ice of other Men to abuſe the Duke, and ſo he ſhou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſure to be undone.</hi> The Perſon reply'd is hehad done before, <hi>that he ſhould never find Reſt. 'till he ſhould perform what he requir'd and therefore he were better to diſpatch it. That the Acceſs to his Son was known to be very eaſy; and that few Men waited long for him; and for the gaining him Credit, he would tell him Two or Three Particulars, which he charged him never to mention to any Perſon living, but to the Duke himſelf, and he ſhould no ſooner hear them but he would believe all the Reſt he ſhould ſay, and ſo repeating his Threats, he left him.</hi>
+            </p>
+            <p>In the morning the poor man more co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>firm'd by the laſt Appearance, made his Journey to London, where the Court then was. He was very well known to Sr. Ralph Freeman, one of the Maſters of Requeſts, who had married a lady that was nearly a lyed to the Duke, and was himſelf well receiv'd by him. To him this man went, and, though he did not acquaint him with all Particulars, he ſaid enough to him to l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t him know there was ſomething extraordinary in it, and the knowledge he had of the Sobriety and Diſcretion of the man made the more Im<g ref="char:EOLhyphen"/>preſſion in him. He deſir'd that by his means
+<pb n="6" facs="tcp:31989:4"/> he might be brought to the Duke to ſuch Place and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſuch a manner, as ſhou'd be thought ſit, affirming, that he had much to ſay to him, and of ſuch a nature as would require much pri<g ref="char:EOLhyphen"/>vacy, and ſome time and Patience in th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hear<g ref="char:EOLhyphen"/>ing. Sr Ralph promis<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he would fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt ſpeak with the Duke of him and then he ſhou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d underſtand his Pleaſure: and accordin<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly in the fi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt O<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>por<g ref="char:EOLunhyphen"/>tunity he did inform him of the Reputation and Honeſty of the man, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n what he deſir'd, and of all h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> knew or th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> matter. The Duke ac<g ref="char:EOLunhyphen"/>cording to his wanted O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enneſs an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Condeſcen<g ref="char:EOLunhyphen"/>tion told him 'That he was the next day Early to hunt with the King<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat his Horſes ſhould attend Him at <hi>Lambeth Bridge</hi> where h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Land by five of the Clock in the Morning, and if the man atten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed him there at that Hour, he 'would walk and ſpeak with h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m as long as ſhould be neceſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry. Sr. Ralph carried the man with him the next Morning, and preſented him to the Duke at hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Landing who receiv'd him courtiouſly; and walk d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ali<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in conference near an Hou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, none but his own Servan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s being that Hour in that Place and they and Sr Ralph at at ſuch a Diſtance that they could not hear a word, tho' the Duke at ſome times ſpoke, and with great Emotion; which Sr Ralph the more eaſily obſerved and perceived becauſe he kept his eyes allways fix'd upon the Duke having procured the Conference, upon ſomewhat he
+<pb n="7" facs="tcp:31989:4"/> knew there was Extraordinary: And the man told him in his return over the water 'that when he mention'd 'thoſe Particulars, which were to gain him Credit the Subſtance where of 'he ſaid he durſt not impute to him, the Duke's Colour changed and he ſwore he could come to that knowledge only by the Devil: For that thoſe Particulars were known only to himſelf and to one Perſon more, who, 'he was ſure would never ſpeak of it.</p>
+            <p>The Duke purſued his purpoſe of hunting, but was obſerv'd to look all the morning with great penſiveneſs, and in deep thoughts, with out any Delight in the Exerciſe he was upon: and before the Morning was ſpent left the field and alighted at his Mo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hers Lodgings in <hi>White-Hall,</hi> with whom he was ſhut up for the ſpace of Two or Three Hours: the noiſe of their diſ<g ref="char:EOLhyphen"/>courſe frequently reaching the cars of thoſe who attented in the next Rooms; And when the Duke left her his Countenance appear'd full of Troubles with a Mixture of Anger. A Countenance that was never before obſerved in him, in any Converſation with her, to<g ref="char:EOLhyphen"/>wards whom he had a profound Reverence, and the Counteſs herſelf (for though ſhe was marri<g ref="char:EOLhyphen"/>ed to a private Gentleman Sr. Thomas Comp<g ref="char:EOLhyphen"/>ton, ſhe had been created Counteſs of Bucking<g ref="char:EOLhyphen"/>ham, ſhortly after her Son Firſt aſſumed that
+<pb n="8" facs="tcp:31989:5"/> Title) was at the Duke's leaving her, found o<g ref="char:EOLhyphen"/>verwhelmed in Tears, and in the higheſt Ago<g ref="char:EOLhyphen"/>ny imaginable. Whatever there was of all this, it is a notorious Truth, that when the News of the Duke's Murther (which happen'd within few months after) was brought to his Mother, ſhe ſeemed not in the leaſt Degree ſur<g ref="char:EOLhyphen"/>prized but received it, as if ſhe foreſeen it; nor did afterwards expreſs ſuch a Degree of Sor<g ref="char:EOLhyphen"/>rows, as was Expected from ſuch a Mother, for the Loſs of ſuch a Son.</p>
+            <trailer>FINIS.</trailer>
+            <trailer>
+               <figure>
+                  <figDesc>man visited by a ghost?</figDesc>
+               </figure>
+            </trailer>
+            <pb facs="tcp:31989:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
